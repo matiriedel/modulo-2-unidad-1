@@ -1,0 +1,87 @@
+.destacados {
+    color: red;
+    padding-left: 300px;
+    text-transform: uppercase;
+}
+
+#caja1{
+    font-family: 'IM Fell English SC', serif;
+color: white;
+background-color:blue;
+    padding: 8px;
+    margin-left: 50px;
+    margin-right: 900px;
+    border: solid 1px black;
+    border-radius: 10px;
+padding: 10px;
+margin-bottom: 20px;
+
+
+}
+
+
+#caja{
+    background-color: red;
+    padding: 8px;
+    margin-left: 50px;
+    margin-right: 900px;
+    border: solid 1px black;
+       box-shadow: 26px -7px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 26px -7px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 26px -7px 5px 0px rgba(0,0,0,0.75);
+
+}
+a{
+    color: red;
+    font-size: 25px;
+    }
+
+a:hover{
+        background-color:blue;
+        color: white;
+    }
+    h2 {
+        color: blue;
+        font-size: 25px;
+    }
+    
+    #caja2{
+            background-color:purple;
+            padding: 8px;
+            margin-left: 50px;
+            margin-right: 900px;
+            border: solid 2px yellow;
+            width: 700px;
+            column-count: 3;
+            column-gap: 40px;
+            column-rule: 1px dashed black;
+            box-shadow: 46px 40px 46px 8px rgba(0,0,0,0.75);
+            -webkit-box-shadow: 46px 40px 46px 8px rgba(0,0,0,0.75);
+            -moz-box-shadow: 46px 40px 46px 8px rgba(0,0,0,0.75);
+            border-radius: 10px;
+padding: 10px;
+margin-bottom: 20px;
+
+        }
+    p {
+    color: white;
+    }
+
+    .imagen img {
+            cursor: pointer;
+    }
+    
+    .imagen img:hover {
+        filter: grayscale(96%);
+        -webkit-filter: grayscale(96%);
+        -moz-filter: grayscale(96%);   
+    }
+    
+    h3 {
+    text-shadow: 7px 8px 0px rgba(0,0,0,0.25);
+}
+
+.icono {
+    font-size: 50px;
+    background-color: black;
+}
